@@ -1,0 +1,10 @@
+C:\Users\Erik\Source\ScraperTest\ScraperTest\bin\Debug\ScraperTest.exe.config
+C:\Users\Erik\Source\ScraperTest\ScraperTest\bin\Debug\ScraperTest.exe
+C:\Users\Erik\Source\ScraperTest\ScraperTest\bin\Debug\ScraperTest.pdb
+C:\Users\Erik\Source\ScraperTest\ScraperTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Erik\Source\ScraperTest\ScraperTest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Erik\Source\ScraperTest\ScraperTest\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Erik\Source\ScraperTest\ScraperTest\obj\Debug\ScraperTest.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Source\ScraperTest\ScraperTest\obj\Debug\ScraperTest.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Source\ScraperTest\ScraperTest\obj\Debug\ScraperTest.exe
+C:\Users\Erik\Source\ScraperTest\ScraperTest\obj\Debug\ScraperTest.pdb
